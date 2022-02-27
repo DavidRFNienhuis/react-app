@@ -12,7 +12,7 @@
     "eject": "react-scripts eject"
   },
   
-  "proxy": "http://localhost:3066",
+  
 
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.2",
